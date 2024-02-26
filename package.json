@@ -1,0 +1,17 @@
+{
+  "name": "seleniumwebdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "sample-test": "node browserstack.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "selenium-webdriver": "^4.18.1",
+    "wd": "^1.14.0"
+  }
+}
